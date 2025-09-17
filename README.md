@@ -29,7 +29,12 @@ I love creating clean, responsive, and user-friendly web pages. 🌐✨
 ## 📫 Connect With Me
 - GitHub: [Nosin-bd](https://github.com/Nosin-bd)  
 - Email: nosinjesin90@gmail.com
-- LinkedIn: www.linkedin.com/in/nosin-atia 
+- LinkedIn: www.linkedin.com/in/nosin-atia
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/nosin_uxdesigner)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white)](https://www.behance.net/nosin_uiux_designer)
+
+-  
+
 
 ---
 
