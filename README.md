@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jesin  
+# Hi there 👋, I'm Nosin  
 
 🌱 I’m currently learning **HTML & CSS**  
 👨‍💻 Most of my projects are available at [My GitHub Repos](https://github.com/Nosin-bd)  
